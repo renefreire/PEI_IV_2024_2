@@ -1,0 +1,33 @@
+[submodule "TRABS"]
+	path = TRABS
+	url = https://github.com/PEDRODEV6051/TRABS.git
+[submodule "Preco_Certo"]
+	path = Preco_Certo
+	url = https://github.com/GAS097/Preco_Certo.git
+[submodule "Help---Solucoes-Autonoma"]
+	path = Help---Solucoes-Autonoma
+	url = https://github.com/PedroVitor8/Help---Solucoes-Autonoma.git
+[submodule "bclean"]
+	path = bclean
+	url = https://github.com/Storm-X1/bclean.git
+[submodule "projetoSIGE"]
+	path = projetoSIGE
+	url = https://github.com/Kadu9129/projetoSIGE.git
+[submodule "BusQuei_MVC"]
+	path = BusQuei_MVC
+	url = https://github.com/maicondutradev/BusQuei_MVC.git
+[submodule "nightguide.domain"]
+	path = nightguide.domain
+	url = https://github.com/ctlsEx/nightguide.domain.git
+[submodule "Trabalho_PEI"]
+	path = Trabalho_PEI
+	url = https://github.com/N0vaEZ/Trabalho_PEI.git
+[submodule "EasyVacc-Controle-De-Vacinas"]
+	path = EasyVacc-Controle-De-Vacinas
+	url = https://github.com/ataides01/EasyVacc-Controle-De-Vacinas.git
+[submodule "RepairCars"]
+	path = RepairCars
+	url = https://github.com/WindroseFS/RepairCars.git
+[submodule "SITEALLINSAQUA"]
+	path = SITEALLINSAQUA
+	url = https://github.com/HelioMattos/SITEALLINSAQUA.git
